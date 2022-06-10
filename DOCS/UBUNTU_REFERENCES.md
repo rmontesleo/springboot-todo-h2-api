@@ -15,7 +15,8 @@
 
 
 ## HTTP Ports
-
+- [port forwarding using iptables](https://gist.github.com/apriady/856240715392795f17062fd98caee9ef)
+- [sudo ufw status return 'inactive'](https://www.digitalocean.com/community/questions/sudo-ufw-status-return-inactive)
 - [Ubuntu 20.04 open HTTP port 80 and HTTPS port 443 with ufw](https://linuxconfig.org/ubuntu-20-04-open-http-port-80-and-https-port-443-with-ufw)
 - [Open Or Close Server Ports](https://docs.bitnami.com/virtual-machine/faq/administration/use-firewall/)
 - [open port on ubuntu 16.04](https://askubuntu.com/questions/911765/open-port-on-ubuntu-16-04)
