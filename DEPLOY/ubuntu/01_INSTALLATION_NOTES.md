@@ -230,7 +230,7 @@ curl --write-out "%{http_code}\n" --output /dev/null --silent   http://localhost
 
 ### Copy the status code and save it into a variable called http_code
 ```bash
-http_code=${curl --write-out "%{http_code}\n" --output /dev/null --silent   http://localhost:8080/api/todoapp/v3/api-docs}
+http_code=$(curl --write-out "%{http_code}\n" --output /dev/null --silent   http://localhost:8080/api/todoapp/v3/api-docs) && echo $http_code
 ```
 
 ### echo the http_code
