@@ -10,7 +10,7 @@ I hope this project helps you to build something big, something better.
 ### Prerequisite
 
 - Have installed Java 17 or above
-- Have installed Maven 3.85 or above
+- Have installed Maven 3.8.6 or above
 - You cand use your favorite IDE or Text Editor . This project was tested with IntelliJ IDEA and VSCode
 - git 2.25.1 or above
 - Have Installed some browser like Chrome, Firefox or Microsoft Edge
@@ -20,11 +20,13 @@ I hope this project helps you to build something big, something better.
 
 The project is hosted on GitHub, on the repository [rmontesleo/springboot-todo-h2-api](https://github.com/rmontesleo/springboot-todo-h2-api)
 
+
+### Clone the project
 ```bash
 git clone https://github.com/rmontesleo/springboot-todo-h2-api.git
 ```
 
-Go to the folder project
+### Go to the folder project
 ```bash
 cd springboot-todo-h2-api
 ```
@@ -72,7 +74,6 @@ Mode details of how test/execute operations on the database [TEST DATABASE](DOCS
 
 
 ## Other resources to see
-
 
 
 ## Project Licence

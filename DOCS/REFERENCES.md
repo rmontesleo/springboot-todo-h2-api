@@ -1,8 +1,9 @@
 # References
 
-This file has links to some topics used in this project.
 
 [Return to README](../README.md) 
+
+This file has links to some topics used in this project.
 
 
 ## Java 8 
@@ -60,3 +61,5 @@ This file has links to some topics used in this project.
 - [Enabling Cross Origin Requests for a RESTful Web Service](https://spring.io/guides/gs/rest-service-cors/)
 - [SPRING BOOT: COMO SOLUCIONAR Y CONFIGURAR PROBLEMAS DE CORS](https://www.youtube.com/watch?v=jJTfuiyEqb8)
 
+
+[RETURN TO README](../README.md)

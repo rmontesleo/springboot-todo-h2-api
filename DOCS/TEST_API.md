@@ -1,5 +1,7 @@
 # Test API
 
+[RETURN TO README](../README.md)
+
 ## Test with Swagger
 
 ### See the API definition
@@ -209,3 +211,5 @@ curl -X 'DELETE' \
   'http://localhost:8080/api/todoapp/todos/1/1' \
   -H 'accept: */*'
 ```
+
+[RETURN TO README](../README.md)
