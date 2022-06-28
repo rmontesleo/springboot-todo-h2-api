@@ -62,4 +62,8 @@ This file has links to some topics used in this project.
 - [SPRING BOOT: COMO SOLUCIONAR Y CONFIGURAR PROBLEMAS DE CORS](https://www.youtube.com/watch?v=jJTfuiyEqb8)
 
 
+##  Other Resources
+
+- [{?}Mkyog.com](https://mkyong.com/)
+
 [RETURN TO README](../README.md)
